@@ -1,5 +1,5 @@
 # cloudFunction-template
-!
+
 
 This template willdescribe a cloudFunction that can be run locally for testing or deployed with gcloud cli. 
 
