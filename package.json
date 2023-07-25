@@ -10,8 +10,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "NODE_ENV=production node vm_transcribe.js",
-    "dev": "NODE_ENV=development nodemon vm_transcribe.js"
+    "start": "NODE_ENV=production node cloudFunction.js",
+    "dev": "NODE_ENV=development nodemon cloudFunction.js"
   },
   "author": "",
   "license": "ISC",
